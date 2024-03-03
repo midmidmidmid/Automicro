@@ -10,8 +10,6 @@ As I happen to have a metallurgical/metallographic microscope on-hand, I am auto
 
 Some of the items (stepper motors & stepper motor driver boards) I had from previous projects, so I have linked what appear to be equivalent products to what I have. For these, I would still read reviews to ensure the actual product is quality. If the links are broken I added the name you would have to search to find an equivalent. You can also shop around to find better prices not on Amazon. Of course you may be able to find cheaper alternatives by buying secondhand or recycling DC motors from appliances or other electronics, but this project uses new components to be more accessible. 
 
-If you currently lack a microscope, several K12-grade options exist on Amazon between $100-$200USD. These microscopes don't have high quality optics and you may encounter more aberrations/artefacts in use, but automation has the potential to increase the quality through a variety of methods. A metallurgical/metallographic microscope will typically have incident light from a lamp with a beamsplitter, while biological microscopes found for cheap on Amazon will have transmitted light from below. I'm sure you could find one for less than $200 that would be completely acceptable. If that is too much still, you could frequent local secondhand shops if any exist in your area, or look for used lab equipment from online vendors such as Amscope, Ebay, or LabX. Be warned: there are plenty of expensive options on those sites as well. 
-
 |Component|Cost|Item|Link|
 |---------|----|----|----|
 |Microscope|N/A|Meiji Metallurgical Microscope| |
@@ -21,6 +19,8 @@ If you currently lack a microscope, several K12-grade options exist on Amazon be
 |MC| | | |
 |BQ|$52.99|||
 |**Total Cost**|**$134.47**|||
+
+If you currently lack a microscope, several K12-grade options exist on Amazon between $100-$200USD. These microscopes don't have high quality optics and you may encounter more aberrations/artefacts in use, but automation has the potential to increase the quality through a variety of methods. A metallurgical/metallographic microscope will typically have incident light from a lamp with a beamsplitter, while biological microscopes found for cheap on Amazon will have transmitted light from below. I'm sure you could find one for less than $200 that would be completely acceptable. If that is too much still, you could frequent local secondhand shops if any exist in your area, or look for used lab equipment from online vendors such as Amscope, Ebay, or LabX. Be warned: there are plenty of expensive options on those sites as well. 
 
 
 I don't have a breadth of experience testing all the individual components and other options that are out there so the products selected are ones I chose from reading reviews and tech sheets. The Swift 1.3MP USB camera seemed appropriate from the Amazon reviews. It came with a Driver/Software disc but was not used. If you want to experiment with their camera software, it can be downloaded from their Swift EP Microscope Camera site. Instead, I use it as a webcam and there shouldn't be a need for a driver beyond the conventional USB Camera driver (at least for Windows). 
